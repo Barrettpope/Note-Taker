@@ -3,10 +3,10 @@
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
-* [Contributing](#contributing)
 * [License](#license)
 * [Visuals](#visuals)
 * [Deployed Application](#deployedapplication)
+* [Contributing](#contributing)
 * [Support](#support)
 
 ## Description
