@@ -4,6 +4,7 @@
 * [Description](#description)
 * [Installation](#installation)
 * [Contributing](#contributing)
+* [License](#license)
 * [Visuals](#visuals)
 * [Deployed Application](#deployedapplication)
 * [Support](#support)
@@ -18,6 +19,9 @@ This application requires the following node packages:
 * FS
 
 To install, run "npm install" in your Command Line System.
+
+## License
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 ## Visuals
 ![](public/assets/index.png)
