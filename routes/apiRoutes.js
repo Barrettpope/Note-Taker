@@ -1,6 +1,6 @@
 const fs = require("fs");
 const path = require("path");
-const notes = []
+const notes = [];
 
 module.exports = function (app) {
     app.get("/api/notes", function (req, res) {
