@@ -6,7 +6,7 @@
 * [Usage](#usage)
 * [License](#license)
 * [Visuals](#visuals)
-* [Deployed Application](#deployed)
+* [Deployment](#deployment)
 * [Contributing](#contributing)
 * [Support](#support)
 
@@ -31,7 +31,7 @@ To use this application, run "node server.js" in your Command Line System and na
 ![](public/assets/index.png)
 ![](public/assets/notes.png)
 
-## Deployed Application
+## Deployment
 https://still-bayou-46878.herokuapp.com/
 
 ## Contributing
